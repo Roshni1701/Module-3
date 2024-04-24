@@ -1,8 +1,8 @@
-package com.test;
+package com.basic;
 
 import java.util.Scanner;
 
-// 14
+// 14 Find ascii value of given number
 public class ASCII2 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

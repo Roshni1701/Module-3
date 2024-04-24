@@ -1,8 +1,8 @@
-package com.test;
+package com.basic;
 
 import java.util.Scanner;
 
-// 10
+// 10 find the area of a rectangular prism formula : A=2(wl+hl+hw)
 public class RectanglePrism {
 
 	public static void main(String[] args) {

@@ -1,8 +1,8 @@
-package com.test;
+package com.basic;
 
 import java.util.Scanner;
 
-// 29
+// 29 Convert minutes into seconds and hours
 public class MinutesToSecondsHoursConverter {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

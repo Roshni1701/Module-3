@@ -1,8 +1,8 @@
-package com.test;
+package com.basic;
 
 import java.util.Scanner;
 
-// 23
+// 23 WAP to calculate swap 2 numbers with using of multiplication and division.
 public class SwapNumbers2 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

@@ -1,8 +1,8 @@
-package com.test;
+package com.basic;
 
 import java.util.Scanner;
 
-// 24
+// 24 Accept 5 employees name and salary and count average and total salary
 public class EmployeeSalaryCalculator {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

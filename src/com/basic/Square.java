@@ -1,8 +1,8 @@
-package com.test;
+package com.basic;
 
 import java.util.Scanner;
 
-// 4 & 11
+// 4 & 11 4. Find Area of Square formula : a = a2 11. .Find circumference of square formula : C = 4 * a
 public class Square {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

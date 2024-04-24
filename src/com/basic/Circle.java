@@ -1,8 +1,8 @@
-package com.test;
+package com.basic;
 
 import java.util.Scanner;
 
-// 3
+// 3 WAP to Find Area And Circumference of Circle
 public class Circle {
 
 	public static final double PI = 3.14;

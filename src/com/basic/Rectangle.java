@@ -1,8 +1,8 @@
-package com.test;
+package com.basic;
 
 import java.util.Scanner;
 
-// 7 & 8
+// 7 & 8 7. Find area of Rectangle Formula : A=wl 8. Find circumference of Rectangle formula : C = 4 * a
 public class Rectangle {
 
 	public static void main(String[] args) {

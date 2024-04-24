@@ -1,8 +1,8 @@
-package com.test;
+package com.basic;
 
 import java.util.Scanner;
 
-// 9
+// 9 Find circumference of Triangle formula : triangle = a + b + c
 public class TriangleCircumference {
 
 	public static void main(String[] args) {

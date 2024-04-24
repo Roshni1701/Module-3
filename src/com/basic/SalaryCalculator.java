@@ -1,8 +1,8 @@
-package com.test;
+package com.basic;
 
 import java.util.Scanner;
 
-// 20
+// 20 Accept monthly salary from the user and deduct 10% insurance premium, 10% loan installment find out of remaining salary.
 public class SalaryCalculator {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

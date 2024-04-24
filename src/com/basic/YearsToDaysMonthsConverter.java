@@ -1,8 +1,8 @@
-package com.test;
+package com.basic;
 
 import java.util.Scanner;
 
-// 28
+// 28 Convert years into days and months
 public class YearsToDaysMonthsConverter {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

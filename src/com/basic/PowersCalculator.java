@@ -1,8 +1,8 @@
-package com.test;
+package com.basic;
 
 import java.util.Scanner;
 
-// 33
+// 33 Program to Read Integer and Print First Three Powers (N^1, N^2, N^3)
 public class PowersCalculator {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

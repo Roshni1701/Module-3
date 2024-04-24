@@ -1,8 +1,11 @@
-package com.test;
+package com.basic;
 
 import java.util.Scanner;
 
-// 22
+// 22 Calculate compound interest (Compound Interest formula:
+//      a. Formula to calculate compound interest annually is given by: Amount= P(1 + R/100)t
+//      b. Compound Interest = Amount – P
+
 public class CompoundInterestCalculator2 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

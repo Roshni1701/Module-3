@@ -1,8 +1,8 @@
-package com.test;
+package com.basic;
 
 import java.util.Scanner;
 
-// 32
+// 32 Accept 2 numbers and find out its sum check it size
 public class SumAndSizeChecker {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

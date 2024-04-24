@@ -1,8 +1,8 @@
-package com.test;
+package com.basic;
 
 import java.util.Scanner;
 
-// 6
+// 6 Find area of Triangle Formula : A = 1/2 × b × h
 public class TriangleArea {
 
 	public static void main(String[] args) {

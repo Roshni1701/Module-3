@@ -1,10 +1,10 @@
-package com.test;
+package com.basic;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 
-// 1
+// 1 Display This Information using printf a. Your Name b. Your Birth date c. Your Age d. Your Address
 public class Display {
 
 	public static void main(String[] args) {

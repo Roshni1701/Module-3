@@ -1,8 +1,8 @@
-package com.test;
+package com.basic;
 
 import java.util.Scanner;
 
-// 27
+// 27 Convert days into months
 public class DaysToMonthsConverter {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

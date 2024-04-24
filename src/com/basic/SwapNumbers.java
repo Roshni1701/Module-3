@@ -1,8 +1,8 @@
-package com.test;
+package com.basic;
 
 import java.util.Scanner;
 
-// 21
+// 21 Accept 2 numbers from user and swap 2 numbers with using 3rd variable and without using 3rd variable
 public class SwapNumbers {
 	public static void main(String[] args) {
 		int num1, num2, num3;

@@ -1,8 +1,8 @@
-package com.test;
+package com.basic;
 
 import java.util.Scanner;
 
-// 18
+// 18 Calculate person’s Annual salary
 public class AnnualSalaryCalculator {
 	public static void main(String[] args) {
 

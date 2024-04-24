@@ -1,8 +1,8 @@
-package com.test;
+package com.basic;
 
 import java.util.Scanner;
 
-// 31
+// 31 .Convert kilometers into meters
 public class KilometersToMetersConverter {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

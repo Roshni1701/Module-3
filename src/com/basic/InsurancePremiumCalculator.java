@@ -1,8 +1,8 @@
-package com.test;
+package com.basic;
 
 import java.util.Scanner;
 
-// 17
+// 17 Calculate person’s insurance premium based on salary
 public class InsurancePremiumCalculator {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

@@ -1,8 +1,8 @@
-package com.test;
+package com.basic;
 
 import java.util.Scanner;
 
-// 19
+// 19 Calculate compound interest
 public class CompoundInterestCalculator {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

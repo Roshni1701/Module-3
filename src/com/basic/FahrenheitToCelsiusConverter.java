@@ -1,8 +1,8 @@
-package com.test;
+package com.basic;
 
 import java.util.Scanner;
 
-// 26
+// 26 Convert temperature Fahrenheit to Celsius
 public class FahrenheitToCelsiusConverter {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

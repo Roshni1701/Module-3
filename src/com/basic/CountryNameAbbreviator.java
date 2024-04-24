@@ -1,14 +1,13 @@
-package com.test;
+package com.basic;
 
 import java.util.Scanner;
 
-// 15
-public class SchoolNameAbbreviator {
-
+// 16 .Convert country’s name in abbreviate form
+public class CountryNameAbbreviator {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 
-		System.out.println("Enter the full name of the school:");
+		System.out.println("Enter the full name of the country:");
 		String fullName = scanner.nextLine();
 
 		String[] words = fullName.split("\\s+");
@@ -16,11 +15,13 @@ public class SchoolNameAbbreviator {
 		StringBuilder abbreviation = new StringBuilder();
 
 		for (String word : words) {
-			if (!word.equalsIgnoreCase("of") && !word.equalsIgnoreCase("the") && !word.equalsIgnoreCase("and")
-					&& !word.equalsIgnoreCase("for") && !word.equalsIgnoreCase("at")) {
+			if (words.length == 1) {
 				abbreviation.append(word.charAt(0));
-			}
+				abbreviation.append(word.charAt(1));
+			} else
+				abbreviation.append(word.charAt(0));
 		}
+
 		System.out.println("Abbreviated form: " + abbreviation.toString().toUpperCase());
 		scanner.close();
 	}

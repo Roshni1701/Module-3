@@ -1,8 +1,8 @@
-package com.test;
+package com.basic;
 
 import java.util.Scanner;
 
-// 25
+// 25 Accept 5 expense from user and find average of expense
 public class ExpenseCalculator {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

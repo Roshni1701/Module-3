@@ -1,8 +1,8 @@
-package com.test;
+package com.basic;
 
 import java.util.Scanner;
 
-//2 
+//2 Write a program to make Simple calculator (to make addition, subtraction, multiplication, division and modulo)
 public class Calculator {
 
 	public static void main(String[] args) {

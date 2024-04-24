@@ -1,8 +1,8 @@
-package com.test;
+package com.basic;
 
 import java.util.Scanner;
 
-// 5
+// 5 Find Area of Cube formula : a = 6a2
 public class Cube {
 
 	public static void main(String[] args) {

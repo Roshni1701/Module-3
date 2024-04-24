@@ -1,8 +1,8 @@
-package com.test;
+package com.basic;
 
 import java.util.Scanner;
 
-// 13
+// 13 .Find character value from ascii
 public class ASCII1 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
