@@ -2,7 +2,7 @@ package com.conditional;
 
 import java.util.Scanner;
 
-// 1
+// 1  Write a C program to accept two integers and check whether they are equal or not
 public class CheckEqual {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

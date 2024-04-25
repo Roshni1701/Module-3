@@ -2,7 +2,7 @@ package com.conditional;
 
 import java.util.Scanner;
 
-// 4
+// 4 WAP to make simple calculator (operation include Addition, Subtraction, Multiplication, Division, modulo) using conditional statement
 public class SimpleCalculator {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

@@ -2,7 +2,7 @@ package com.conditional;
 
 import java.util.Scanner;
 
-// 5
+// 5 Check Number Is Positive or Negative
 public class PositiveNegative {
 
 	public static void main(String[] args) {

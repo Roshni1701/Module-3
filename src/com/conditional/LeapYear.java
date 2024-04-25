@@ -2,7 +2,7 @@ package com.conditional;
 
 import java.util.Scanner;
 
-// 3
+// 3 WAP to check if the given year is a leap year or not.
 public class LeapYear {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
